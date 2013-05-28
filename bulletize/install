@@ -1,3 +1,2 @@
-#!/bin/sh
-
+#!/usr/bin/env bash
 cp -R Bulletize.workflow ~/Library/Services
