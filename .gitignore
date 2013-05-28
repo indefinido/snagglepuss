@@ -1,0 +1,22 @@
+# Mac OS X Files
+.DS_*
+
+# Bundler
+.bundle
+
+
+# Run Commands Files
+.rvmrc
+.powrc
+
+# Cache
+test/dummy/.sass-cache
+
+# Emacs Temporary Files
+*~
+*#
+
+# Eclipse
+.directory
+.project
+.loadpath
