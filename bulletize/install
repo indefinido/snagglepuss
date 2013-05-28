@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
+
+echo 'Installing bulletize in ~/Library/Services'
+
 cp -R Bulletize.workflow ~/Library/Services
