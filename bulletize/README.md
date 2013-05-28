@@ -3,6 +3,21 @@ Bulletize
 
 Format a nested list with bullets
 
+Installation
+------------
+
+[Clone the snagglepuss repository](https://github.com/indefinido/snagglepuss#installation)
+
+Enter the repository directory:
+```
+cd bulletize
+```
+
+Install the service:
+```
+./install
+```
+
 Usage
 ------------
 
@@ -31,19 +46,4 @@ You will end up with this:
    ◦ item 1.3
  • item 2
    ◦ item 2.1
-```
-
-Installation
-------------
-
-[Clone the snagglepuss repository](https://github.com/indefinido/snagglepuss#Installation)
-
-Enter the repository directory:
-```
-cd bulletize
-```
-
-Install the service:
-```
-./install
 ```
