@@ -1,7 +1,7 @@
 Bulletize
 ===========
 
-Format a nested list with bullets
+Format a nested list with bullets.
 
 Installation
 ------------
