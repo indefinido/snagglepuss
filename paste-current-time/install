@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo 'Installing Paste Current Time in ~/Library/Services'
+
+cp -R "Paste Current Time.workflow" ~/Library/Services
+
+echo 'Done!'
