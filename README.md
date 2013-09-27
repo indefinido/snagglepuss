@@ -22,4 +22,8 @@ Services
     <a href="https://github.com/indefinido/snagglepuss/tree/master/bulletize">Bulletize</a>
   </dt>
   <dd>Format a nested list with bullets</dd>
+  <dt>
+    <a href="https://github.com/indefinido/snagglepuss/tree/master/paste-current-tipe">Paste Current Time</a>
+  </dt>
+  <dd>Outputs the current time formated as hh:mm (24h)</dd>
 </dl>
