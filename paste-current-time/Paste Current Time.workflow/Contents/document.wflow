@@ -59,8 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>date | grep -Eo "\\d{2}:\\d{2}"
-</string>
+					<string>date | grep -Eo "[[:digit:]]{2}:[[:digit:]]{2}"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
