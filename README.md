@@ -26,4 +26,8 @@ Services
     <a href="https://github.com/indefinido/snagglepuss/tree/master/paste-current-time">Paste Current Time</a>
   </dt>
   <dd>Outputs the current time formated as hh:mm (24h)</dd>
+  <dt>
+    <a href="https://github.com/indefinido/snagglepuss/tree/master/paste-current-date">Paste Current Date</a>
+  </dt>
+  <dd>Outputs the current date formated as mm/dd/yyyy</dd>
 </dl>
