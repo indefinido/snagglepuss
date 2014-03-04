@@ -59,7 +59,8 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>input    = $stdin.read
+					<string> # encoding: UTF-8
+input    = $stdin.read
 lines    = input.split(/\n/)
 
 bulleted = ""
